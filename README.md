@@ -1,7 +1,7 @@
 # Ex08-Windows-basic-commands-batchscript
 
-### Name: SANJAY M
-### Register No: 212223230187
+### Name: SHASHANK R
+### Register No: 212223230205
 ### Date:18.10.2024
 # Windows-basic-commands-batchscript
 Ex08-Windows-basic-commands-batchscript
